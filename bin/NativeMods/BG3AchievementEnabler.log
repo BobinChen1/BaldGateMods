@@ -1,0 +1,4 @@
+[10/11/23 15:10:35][info](Logger.hpp:198) Logger init - BG3AchievementEnabler 10100
+[10/11/23 15:10:35][info](main.cpp:241) game type : bg3_dx11.exe
+[10/11/23 15:10:35][info](main.cpp:122) IsAddonLoaded patch 1 installed at 7FF609C6837E
+[10/11/23 15:10:35][info](main.cpp:122) IsAddonLoaded patch 2 installed at 7FF608C85DA5
